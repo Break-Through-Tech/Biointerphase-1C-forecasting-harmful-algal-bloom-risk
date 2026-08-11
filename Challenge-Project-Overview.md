@@ -2,6 +2,7 @@
 
 **Company / Org:** Biointerphase  
 **Challenge Advisor:** Mia Maksin, mmaksin@biointerphase.com  
+**AI Studio Coach:** Eric Bayless, eric.bayless@breakthroughtech.org  
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
